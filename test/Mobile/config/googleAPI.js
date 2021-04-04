@@ -1,0 +1,3 @@
+export const API_KEY = "AIzaSyCoGYK7PuLV4yJHb-rX1U2RM8KbrbQt0Zw";
+export const localhost = "10.0.2.2";
+export const test2o= "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJQaMO6IiwibGFzdE5hbWUiOiJUcuG6p24iLCJ0ZWxlcGhvbmUiOiIwOTMzNTAxNDUwIiwiZW1haWwiOiJsb25ncGh1NzUzOTUxQGdtYWlsLmNvbSIsImtpbmQiOiJQYXNzZW5nZXIiLCJpYXQiOjE2MDM5ODcyMDB9.vr2czX63Gq6zIehxJ46AXistiTrnP0Tv__90KC7LWMQ";
